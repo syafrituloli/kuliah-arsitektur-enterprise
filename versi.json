@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T21:40:36.499864+08:00",
+  "updated_at": "2026-11-11T16:04:18.204717+08:00",
   "policy": "Hanya versi terbaru di alamat tetap; versi sumber dicatat pada setiap berkas.",
   "presentations": [
     {
@@ -10,9 +10,9 @@
     },
     {
       "meeting": 2,
-      "source_version": "v11",
+      "source_version": "v12",
       "path": "materi/pertemuan-02.html",
-      "sha256": "caa76d4a7ccff4b799cef79ba814b520d144efa8662c215a409943b2bc823c5a"
+      "sha256": "fa2121a64c3d6c70f668fbfbd5ef8fab0211ab8c7a5f08338645f901c5da58f0"
     },
     {
       "meeting": 3,
